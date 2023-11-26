@@ -1,6 +1,7 @@
 # Hotel Domain Analysis Using Python
 
 Project Overview
+
 Atliq Grands faced tough competition and revenue decline. Leveraging Python, I addressed challenges through data analysis, cleaning, transformation, and visualization.
 
 Project Highlights:
