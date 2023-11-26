@@ -29,4 +29,4 @@ Premium Upgrade: Enhance Premium room experience for better ratings and potentia
 Optimize Delhi Stays: Despite high ratings, explore strategies to maximize room bookings.
 Weekend Promotions: Leverage the weekend rush with targeted marketing on Fridays and Saturdays.
 
-🚀 A big thank you to Dhaval Patel and Hemanand Vadivel Sir for their invaluable guidance! 🙏
+The dataset used in this project is not shared on GitHub. As it originates from a paid online course resource, it is not intended for public distribution. If you're interested in reproducing the analysis or running the code on this dataset, please feel free to contact me at [harish14rs@gmail.com] for further instructions.
